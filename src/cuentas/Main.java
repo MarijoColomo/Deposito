@@ -32,5 +32,6 @@ public class Main {
         cuenta1.ingresar(685);
         saldoActual = cuenta1.estado();
         System.out.println("El saldo actual es "+ saldoActual );
+        System.out.println("¿Desea realizar otra operación?" );
     }
 } 
